@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-23T22:45:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "TFBGA64_7JX_MCH v12"
+        },
+        "Owner": "Nathan Shreve <nathan.shreve@wustl.edu>",
+        "Size": {
+            "X": 64.7754,
+            "Y": 20.0662
+        }
+    }
+}
