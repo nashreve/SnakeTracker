@@ -37,3 +37,26 @@ For the GPS unit, we decided to use the Wurth Electronik Erinome-II, for three m
     Low power consumption compared to other GPS modules, but a larger power drain than the MCU
 3. Communication requirements
     Can use UART and I2C interfaces
+    
+**Schematic**
+The schematic for our PCB is located in our GitHub.  
+
+**Components**
+The BOM is located in our GitHub. 
+
+Significant components for the microcontroller include:
+SAMR34: This is our microcontroller
+SKY13373_460LF SP3T Switch: This is a switching module that we will use to connect our LoRa antenna to our MCU
+
+**NOTE: We will be using a simple wire antenna cut down to 1/4 wavelength for the 915MHz antenna.**
+
+Significant components for the GPS module include:
+Erinome-II: This is our GPS module
+WE-MCA Multilayer Chip Antenna: This is our GPS antenna
+TDK SAW RF Filter B4310: This will be our low loss RF filter for the GPS signal
+
+**Build files**
+The Gerber files and drill files are located in our GitHub.
+
+# Some Notes for our Design
+The board is currently 65x22mm. We will test this version first, and then scale it down appropriately after we have a working prototype.
