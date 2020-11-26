@@ -6,9 +6,9 @@ Hello! My name is Nathan Shreve, and I'm a fourth-year undergraduate student at 
 
 For our project, we are building these implantable trackers to a certain set of specifications given to us by an ecologist who works for the nature conservancy. The specifications for the implant are given as follows:
 
-   It must be less than 15x40mm, so that it can be implanted into the snake
-   It must have a battery life of up to 8months. This is because every time the battery is replaced, the snakes must undergo an invasive surgery
-   It must take position data at least once per day
+1. It must be less than 15x40mm, so that it can be implanted into the snake
+2. It must have a battery life of up to 8months. This is because every time the battery is replaced, the snakes must undergo an invasive surgery
+3. It must take position data at least once per day
 
 These implants will then be part of a larger LoRa Network to send data back to a central server. The data will then be accessed from a front end visualization tool. A layout of our network is shown in the "Project Overview" folder. Our project consists of four main parts:
 
