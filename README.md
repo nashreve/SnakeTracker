@@ -2,7 +2,7 @@
 ESE Senior Design Project, Fall 2020
 
 # Introduction
-Hello! My name is Nathan Shreve, and I'm a fourth-year undergraduate student at university. I am currently studying Electrical Engineering, and am working on a team with Matthew Bridges to design a LoRa Network that utilizes implantable GPS end nodes to track the movement of snakes in a local nature conservancy. Outside of school, I enjoy running, hiking, and swimming, and I love to read science fiction novels! My favorite authors are Isaac Asimov and Arthur C. Clarke. 
+Hello! My name is Nathan Shreve, and I'm a fourth-year undergraduate student at Washington University in St. Louis. I am currently studying Electrical Engineering, and am working on a team with Matthew Bridges to design a LoRa Network that utilizes implantable GPS end nodes to track the movement of snakes in a local nature conservancy. Outside of school, I enjoy running, hiking, and swimming, and I love to read science fiction novels! My favorite authors are Isaac Asimov and Arthur C. Clarke. 
 
 For our project, we are building these implantable trackers to a certain set of specifications given to us by an ecologist who works for the nature conservancy. The specifications for the implant are given as follows:
 
