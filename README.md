@@ -42,10 +42,10 @@ For the GPS unit, we decided to use the Wurth Electronik Erinome-II, for three m
 3. Communication requirements
     Can use UART and I2C interfaces
     
-**Schematic**
+###### Schematic
 The schematic for our PCB is located in our GitHub.  
 
-**Components**
+###### Components
 The BOM is located in our GitHub. 
 
 Significant components for the microcontroller include:
@@ -58,7 +58,7 @@ Significant components for the GPS module include:
 2. WE-MCA Multilayer Chip Antenna: This is our GPS antenna
 3. TDK SAW RF Filter B4310: This will be our low loss RF filter for the GPS signal
 
-**Build files**
+###### Build files
 The Gerber files and drill files are located in our GitHub.
 
 # Some Notes for our Design
