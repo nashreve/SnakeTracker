@@ -45,15 +45,14 @@ The schematic for our PCB is located in our GitHub.
 The BOM is located in our GitHub. 
 
 Significant components for the microcontroller include:
-SAMR34: This is our microcontroller
-SKY13373_460LF SP3T Switch: This is a switching module that we will use to connect our LoRa antenna to our MCU
-
-**NOTE: We will be using a simple wire antenna cut down to 1/4 wavelength for the 915MHz antenna.**
+1. SAMR34: This is our microcontroller
+2. SKY13373_460LF SP3T Switch: This is a switching module that we will use to connect our LoRa antenna to our MCU
+3. Antenna: We will be using a simple wire antenna cut down to 1/4 wavelength for the 915MHz antenna
 
 Significant components for the GPS module include:
-Erinome-II: This is our GPS module
-WE-MCA Multilayer Chip Antenna: This is our GPS antenna
-TDK SAW RF Filter B4310: This will be our low loss RF filter for the GPS signal
+1. Erinome-II: This is our GPS module
+2. WE-MCA Multilayer Chip Antenna: This is our GPS antenna
+3. TDK SAW RF Filter B4310: This will be our low loss RF filter for the GPS signal
 
 **Build files**
 The Gerber files and drill files are located in our GitHub.
