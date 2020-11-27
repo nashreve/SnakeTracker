@@ -12,7 +12,7 @@ For our project, we are building these implantable trackers to a certain set of 
 
 These implants will then be part of a larger LoRa Network to send data back to a central server. The data will then be accessed from a front end visualization tool. 
 
-![alt text](https://github.com/nashreve/SnakeTracker/SnakeTracker_Hardware/SnakeTracker_Schematic.jpg?raw=true)
+![alt text](https://github.com/nashreve/SnakeTracker/blob/main/Project_Overview/SnakeTracker_LoRaWAN.png?raw=true)
 
 A layout of our network is shown in the "Project Overview" folder. Our project consists of four main parts:
 
