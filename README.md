@@ -8,17 +8,6 @@ Hello! Our names are Matthew Bridges and Nathan Shreve, and we are undergraduate
 2. It must have a battery life of up to 8months. This is because every time the battery is replaced, the snakes must undergo an invasive surgery
 3. It must take position data at least once per day
 
-These implants will then be part of a larger LoRa Network to send data back to a central server. The data will then be accessed from a front end visualization tool. 
-
-![alt text](https://github.com/nashreve/SnakeTracker/blob/main/Project_Overview/SnakeTracker_LoRaWAN.png?raw=true)
-
-A layout of our network is shown in the "Project Overview" folder. Our project consists of four main parts:
-
-1. The snake implants as end nodes of the network
-2. The LoRa gateway, which will be mounted to a tree somewhere in the nature conservancy
-3. The network server that will hold our data that we collect
-4. The application server on the front end that will allow our ecologist client to access the position data stored in the network server.
-
 # Snake Implants: Our Custom PCB
 One major component of our project, as mentioned earlier, is the implant for the snakes. We have designed a custom PCB to do this. This custom PCB follows the limitations regarding size, battery life, and position, all given above. Our PCB consists of two main parts. It has a microcontroller with a LoRa radio module, and a GPS unit to take position data. That position data will then be sent out through the radio module to the rest of the LoRa network. 
 
