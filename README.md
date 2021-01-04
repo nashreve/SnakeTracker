@@ -2,7 +2,7 @@
 ESE Senior Design Project, Fall 2020
 
 # Introduction
-Hello! My name is Nathan Shreve, and I'm a fourth-year undergraduate student at Washington University in St. Louis. I am currently studying Electrical Engineering, and am working on a team with Matthew Bridges to design a LoRa Network that utilizes implantable GPS end nodes to track the movement of snakes in a local nature conservancy. For our project, Matt and I are building these implantable trackers to a certain set of specifications given to us by an ecologist who works for the nature conservancy. The specifications for the implant are given as follows:
+Hello! Our names are Matthew Bridges and Nathan Shreve, and we are undergraduate students at Washington University in St. Louis. We are currently studying Electrical Engineering, and are working to design a LoRa Network that utilizes implantable GPS end nodes to track the movement of snakes in a local nature conservancy. For our project, we are building these implantable trackers to a certain set of specifications given to us by an ecologist who works for the nature conservancy. The specifications for the implant are given as follows:
 
 1. It must be less than 15x40mm, so that it can be implanted into the snake
 2. It must have a battery life of up to 8months. This is because every time the battery is replaced, the snakes must undergo an invasive surgery
